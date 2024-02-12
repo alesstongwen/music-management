@@ -66,3 +66,5 @@ class Playlist {
     album.tracks.forEach((track) => this._songs.push(track));
   }
 }
+
+// an error in line 66, which idk how to fix
